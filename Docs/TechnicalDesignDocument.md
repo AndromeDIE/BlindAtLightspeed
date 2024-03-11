@@ -8,8 +8,7 @@ The game “Blind at Lightspeed” is a fast-paced, endless resource-management 
 The game is being developed in Unreal Engine 5, mainly using Blueprints. C++ is not excluded from being used in the future.
 
 ### <ins>Version Control Policy
-The project repo can be found at 
-https://github.com/AndromeDIE/BlindAtLightspeed
+The project repo can be found at https://github.com/AndromeDIE/BlindAtLightspeed
 
 Commits are to be fitted with a descriptive commit message, describing the purpose of edited or newly added files as clearly as possible
 working on files that are checked out by another contributor should never be done without communicating the process with the affected individuals and serves only as a last resort
